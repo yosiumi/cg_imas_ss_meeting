@@ -1,0 +1,2 @@
+# cg_imas_ss_meeting
+モバマスSS交流会用のリポジトリです
